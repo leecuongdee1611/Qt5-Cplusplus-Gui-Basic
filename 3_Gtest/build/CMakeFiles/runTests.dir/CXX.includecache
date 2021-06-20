@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cris/Desktop/Qt5-Cplusplus-Gui-Basic/3_Gtest/function_need_to_test.cpp
+function_need_to_test.h
+/home/cris/Desktop/Qt5-Cplusplus-Gui-Basic/3_Gtest/function_need_to_test.h
+
+/home/cris/Desktop/Qt5-Cplusplus-Gui-Basic/3_Gtest/function_need_to_test.h
+
+/home/cris/Desktop/Qt5-Cplusplus-Gui-Basic/3_Gtest/test.cpp
+function_need_to_test.h
+/home/cris/Desktop/Qt5-Cplusplus-Gui-Basic/3_Gtest/function_need_to_test.h
+gtest/gtest.h
+-
+

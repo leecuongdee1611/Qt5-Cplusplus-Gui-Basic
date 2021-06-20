@@ -1,0 +1,3 @@
+/home/cris/Desktop/Qt5-Cplusplus-Gui-Basic/3_Gtest/build/CMakeFiles/rebuild_cache.dir
+/home/cris/Desktop/Qt5-Cplusplus-Gui-Basic/3_Gtest/build/CMakeFiles/runTests.dir
+/home/cris/Desktop/Qt5-Cplusplus-Gui-Basic/3_Gtest/build/CMakeFiles/edit_cache.dir

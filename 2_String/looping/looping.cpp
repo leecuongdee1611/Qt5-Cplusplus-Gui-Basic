@@ -22,6 +22,15 @@ int main(void) {
     out << str.at(i) << " ";
   }
 
+  // Test
+  QChar *a=str.begin();
+  out << *a << endl;
+  out << str.begin() << endl;
+  out << str.end() << endl;
+  out << a << endl;
+  out << &a << endl;
+  out << str.end() - str.begin() << endl;
+
   out << endl;
 
   return 0;
