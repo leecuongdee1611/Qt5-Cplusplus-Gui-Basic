@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "qfile": "cpp",
+        "qfileinfo": "cpp",
+        "qtextstream": "cpp",
+        "qwidget": "cpp",
+        "qpushbutton": "cpp"
+    }
+}
